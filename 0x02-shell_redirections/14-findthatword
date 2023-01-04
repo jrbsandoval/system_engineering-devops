@@ -1,0 +1,3 @@
+#!/bin/bash
+# Display lines containing the pattern $1 from the file $2
+cat /etc/passwd | grep -e "root"

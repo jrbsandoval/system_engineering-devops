@@ -1,0 +1,3 @@
+#!/bin/bash
+# Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+cat /etc/ssh/ssh_config | grep ^[[:alpha:]]

@@ -1,0 +1,3 @@
+#!/bin/bash
+# created a directory called my_dir with permissions 751 in the working directory
+mkdir -m 751 $1

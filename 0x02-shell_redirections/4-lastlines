@@ -1,0 +1,3 @@
+#!/bin/bash
+# mostrando las ultimas 10 lineas de un archivo
+tail /etc/passwd

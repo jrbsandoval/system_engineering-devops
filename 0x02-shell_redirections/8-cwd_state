@@ -1,0 +1,3 @@
+#!/bin/bash
+# redirection standar output to file
+ls -la > ls_cwd_content

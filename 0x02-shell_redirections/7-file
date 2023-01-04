@@ -1,0 +1,3 @@
+#!/bin/bash
+# single quote in bash
+echo "Holberton School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'

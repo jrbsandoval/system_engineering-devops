@@ -1,0 +1,3 @@
+#!/bin/bash
+# Mostrando las primeras 10 lineas de un FILE
+head /etc/passwd
